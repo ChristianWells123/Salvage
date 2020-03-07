@@ -328,3 +328,16 @@ footer .fa {
 #copyright a:hover {
   color: #FF0;
 }
+#slideshow { 
+  height: 72em;
+  object-fit: contain;
+}
+#slideshow > img {
+  width: 100%;
+  height: 95%;
+}
+
+#slideshow > div { 
+    position: absolute; 
+    top: 20%; 
+}

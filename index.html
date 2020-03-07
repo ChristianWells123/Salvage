@@ -60,8 +60,14 @@ http://www.tooplate.com/view/2076-zentro
 	</div>		
 </section>
 
-
-
+<section id="slideshow" class="parallax-section text-center">
+		<img class="slides" src="images/gallery-img1.jpg">
+		<img class="slides" src="images/gallery-img2.jpg">
+		<img class="slides" src="images/gallery-img3.jpg">
+		<img class="slides" src="images/gallery-img4.jpg">
+		<button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+		<button class="w3-button w3-display-right" onclick="plusDivs(+1)">&#10095;</button>
+</section>
 
 <!-- discount section -->
 <section id="menu" class="parallax-section">
@@ -82,7 +88,7 @@ http://www.tooplate.com/view/2076-zentro
 </section>		
 
 
-<!-- gallery section -->
+<!-- gallery section 
 <section id="gallery" class="parallax-section">
 	<div class="container">
 		<div class="row">
@@ -124,6 +130,8 @@ http://www.tooplate.com/view/2076-zentro
 		</div>
 	</div>
 </section>
+-->
+
 
 
 <!-- footer section -->
@@ -184,6 +192,25 @@ http://www.tooplate.com/view/2076-zentro
 <script src="js/nivo-lightbox.min.js"></script>
 <script src="js/wow.min.js"></script>
 <script src="js/custom.js"></script>
+<script> 
+var slideIndex = 1;
+	showDivs(slideIndex);
+	
+	function plusDivs(n) {
+	  showDivs(slideIndex += n);
+	}
+	
+	function showDivs(n) {
+	  var i;
+	  var x = document.getElementsByClassName("slides");
+	  if (n > x.length) {slideIndex = 1}
+	  if (n < 1) {slideIndex = x.length} ;
+	  for (i = 0; i < x.length; i++) {
+		x[i].style.display = "none";
+	  }
+	  x[slideIndex-1].style.display = "block";
+	}
+</script>
 
 </body>
 </html>
