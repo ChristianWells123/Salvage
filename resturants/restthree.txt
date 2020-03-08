@@ -1,0 +1,19 @@
+Restaurant name : Italian Garden
+Directions : Green Building, 1215 Avenue J #102, Lubbock, TX 79401
+contact info :  (806) 771-2212
+food type : Italian food
+hours :
+yelp : 4.5 stars 
+useful info 
+•	parking : yes
+•	kid friendly : yes
+•	takeout: yes
+•	outdoor seating : no
+•	good for groups : yes
+•	accepts credit cards : yes
+•	free wifi : yes
+•	full bar : no
+•	pet friendly : no
+•	vegan options : yes
+•	vegetarian options : yes
+•	gluten free options : no

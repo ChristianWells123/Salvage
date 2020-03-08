@@ -1,0 +1,19 @@
+Restaurant name  La siera
+Directions : 2610 Salem Ave,  Lubbock, TX 79410
+contact info : 806 368 7960
+food type : Latin American Restaurant 
+hours : 
+yelp reviews : 5 stars 
+useful info 
+•	parking : yes
+•	kid friendly : yes
+•	takeout : yes
+•	outdoor seating : no 
+•	good for groups : yes
+•	accepts credit cards : yes 
+•	free wifi : no
+•	full bar : no
+•	pet friendly : no 
+•	vegan options : no 
+•	vegetarian options : no
+•	gluten free options : no
