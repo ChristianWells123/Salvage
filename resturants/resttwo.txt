@@ -1,0 +1,20 @@
+Restaurant name : vizos
+Directions : 4930 S Loop 289 #204, Lubbock, TX 79414
+contact info : (806) 368-6490
+food type : African Restaurant 
+hours :
+yelp reviews : 5 stars 
+useful info 
+•	parking : yes 
+•	kid friendly : yes
+•	takeout : yes
+•	outdoor seating : no
+•	good for groups : yes
+•	accepts credit cards : yes
+•	free wifi : no
+•	full bar : no
+•	pet friendly : no
+•	vegan options : yes
+•	vegetarian options : yes
+•	gluten free options : no
+
